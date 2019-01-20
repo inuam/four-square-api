@@ -7,11 +7,11 @@ import org.springframework.web.bind.annotation.RestController;
 import static org.springframework.web.bind.annotation.RequestMethod.GET;
 
 @RestController
-@RequestMapping("/venues")
+@RequestMapping("/api")
 public class LocationController {
 
-    @RequestMapping(path="/search", method = GET, produces = "application/json")
-    public String search(@RequestParam(value="query") String query) {
+    @RequestMapping(path="/place", method = GET, produces = "application/json")
+    public String place(@RequestParam(value="name") String name) {
         return "Hello World";
     }
 

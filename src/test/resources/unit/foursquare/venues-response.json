@@ -1,0 +1,1300 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5c43d355f594df0eaeb87c99"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4ac518cef964a520f9a520e3",
+        "name": "Trafalgar Square",
+        "location": {
+          "address": "Trafalgar Sq",
+          "lat": 51.5078378136307,
+          "lng": -0.12770686461187308,
+          "postalCode": "WC2N 5DX",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Trafalgar Sq",
+            "London",
+            "Greater London",
+            "WC2N 5DX",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d164941735",
+            "name": "Plaza",
+            "pluralName": "Plazas",
+            "shortName": "Plaza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4cb1d0e2562d224bfdb42188",
+        "name": "\"A Conversation With Oscar Wilde\" statue",
+        "location": {
+          "address": "Adelaide St.",
+          "crossStreet": "Btw King William IV & Duncannon",
+          "lat": 51.50870249627353,
+          "lng": -0.12599059231431847,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50870249627353,
+              "lng": -0.12599059231431847
+            }
+          ],
+          "postalCode": "WC2 N 5",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Adelaide St. (Btw King William IV & Duncannon)",
+            "London",
+            "Greater London",
+            "WC2 N 5",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "507c8c4091d498d9fc8c67a9",
+            "name": "Public Art",
+            "pluralName": "Public Art",
+            "shortName": "Public Art",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "52c57cc911d2dba4b2352f65",
+        "name": "Paul French Patisserie",
+        "location": {
+          "address": "Covent Garden",
+          "lat": 51.50874757272907,
+          "lng": -0.125692708585204,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50874757272907,
+              "lng": -0.125692708585204
+            }
+          ],
+          "cc": "GB",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Covent Garden",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10c941735",
+            "name": "French Restaurant",
+            "pluralName": "French Restaurants",
+            "shortName": "French",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4ac518f6f964a52050af20e3",
+        "name": "Charing Cross Railway Station (CHX)",
+        "location": {
+          "address": "Strand",
+          "lat": 51.50807469628687,
+          "lng": -0.12458324432373047,
+          "postalCode": "WC2N 5HF",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Strand",
+            "London",
+            "Greater London",
+            "WC2N 5HF",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d129951735",
+            "name": "Train Station",
+            "pluralName": "Train Stations",
+            "shortName": "Train Station",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4b5061def964a520cb2127e3",
+        "name": "PizzaExpress",
+        "location": {
+          "address": "450 Strand",
+          "lat": 51.50834611737291,
+          "lng": -0.1259409246655471,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50834611737291,
+              "lng": -0.1259409246655471
+            }
+          ],
+          "postalCode": "WC2R 0RG",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "450 Strand",
+            "London",
+            "Greater London",
+            "WC2R 0RG",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4ac518c8f964a5207ca520e3",
+        "name": "Heaven",
+        "location": {
+          "address": "9 The Arches",
+          "crossStreet": "Villiers St",
+          "lat": 51.50797880142693,
+          "lng": -0.12413663294553413,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50797880142693,
+              "lng": -0.12413663294553413
+            }
+          ],
+          "postalCode": "WC2N 6NG",
+          "cc": "GB",
+          "city": "Charing Cross",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "9 The Arches (Villiers St)",
+            "Charing Cross",
+            "Greater London",
+            "WC2N 6NG",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d8941735",
+            "name": "Gay Bar",
+            "pluralName": "Gay Bars",
+            "shortName": "Gay Bar",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/gaybar_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "59e8e840135b394bb38bc851",
+        "name": "The Strand Sausage Co.",
+        "location": {
+          "lat": 51.508591,
+          "lng": -0.125803,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508591,
+              "lng": -0.125803
+            }
+          ],
+          "postalCode": "W C2N",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "London",
+            "Greater London",
+            "W C2N",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16f941735",
+            "name": "Hot Dog Joint",
+            "pluralName": "Hot Dog Joints",
+            "shortName": "Hot Dogs",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4bcc979fb6c49c7417029491",
+        "name": "Jigsaw",
+        "location": {
+          "address": "450 Strand",
+          "lat": 51.50839295345701,
+          "lng": -0.1257246358931777,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50839295345701,
+              "lng": -0.1257246358931777
+            }
+          ],
+          "postalCode": "WC2R 0RG",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "450 Strand",
+            "London",
+            "Greater London",
+            "WC2R 0RG",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d103951735",
+            "name": "Clothing Store",
+            "pluralName": "Clothing Stores",
+            "shortName": "Apparel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "52024d08498eb0286116073e",
+        "name": "Bus Stop H @ Charing Cross Station",
+        "location": {
+          "address": "The Strand",
+          "crossStreet": "Villliers St",
+          "lat": 51.508462,
+          "lng": -0.125549,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508462,
+              "lng": -0.125549
+            }
+          ],
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "The Strand (Villliers St)",
+            "London",
+            "Greater London",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b4f",
+            "name": "Bus Stop",
+            "pluralName": "Bus Stops",
+            "shortName": "Bus Stop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4d667b231658721e1336c804",
+        "name": "Co-op Food",
+        "location": {
+          "address": "Golden Cross House, 456-459 Strand",
+          "lat": 51.50810438587031,
+          "lng": -0.12638962119786967,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50810438587031,
+              "lng": -0.12638962119786967
+            }
+          ],
+          "postalCode": "WC2R 0RG",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Golden Cross House, 456-459 Strand",
+            "London",
+            "Greater London",
+            "WC2R 0RG",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d118951735",
+            "name": "Grocery Store",
+            "pluralName": "Grocery Stores",
+            "shortName": "Grocery Store",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "5602b282498ec775420dc5a6",
+        "name": "Adelaide Ice Cream And Hot Dogs",
+        "location": {
+          "address": "Adelaide Street",
+          "lat": 51.50868041692501,
+          "lng": -0.1257959119967015,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50868041692501,
+              "lng": -0.1257959119967015
+            }
+          ],
+          "postalCode": "WC2",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Adelaide Street",
+            "London",
+            "Greater London",
+            "WC2",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "5314c246e4b0d805d37bb379",
+        "name": "Charing Cross",
+        "location": {
+          "lat": 51.50849652816858,
+          "lng": -0.1250544246466956,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50849652816858,
+              "lng": -0.1250544246466956
+            }
+          ],
+          "cc": "GB",
+          "city": "Charing Cross",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Charing Cross",
+            "Greater London",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4f2a25ac4b909258e854f55f",
+            "name": "Neighborhood",
+            "pluralName": "Neighborhoods",
+            "shortName": "Neighborhood",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "538c3a5b498e382b6fa2709c",
+        "name": "Spredfast UK",
+        "location": {
+          "address": "12 Henrietta Street",
+          "crossStreet": "Bedford street",
+          "lat": 51.508418899942335,
+          "lng": -0.12599609098822442,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508418899942335,
+              "lng": -0.12599609098822442
+            }
+          ],
+          "postalCode": "WC2N 5LH",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "12 Henrietta Street (Bedford street)",
+            "London",
+            "Greater London",
+            "WC2N 5LH",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d125941735",
+            "name": "Tech Startup",
+            "pluralName": "Tech Startups",
+            "shortName": "Tech Startup",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4cf8caab9515370485665e89",
+        "name": "HSBC",
+        "location": {
+          "address": "455 Strand",
+          "lat": 51.508239344161254,
+          "lng": -0.12602597640101193,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508239344161254,
+              "lng": -0.12602597640101193
+            }
+          ],
+          "postalCode": "WC2R 0RH",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "455 Strand",
+            "London",
+            "Greater London",
+            "WC2R 0RH",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Bank",
+            "pluralName": "Banks",
+            "shortName": "Bank",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4bc78b3c93bdeee1947f37ae",
+        "name": "Amba Charing Cross Hotel",
+        "location": {
+          "address": "The Strand, Ste 2",
+          "lat": 51.508216448057865,
+          "lng": -0.12456434789824627,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508216448057865,
+              "lng": -0.12456434789824627
+            }
+          ],
+          "postalCode": "WC2N 5HX",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "The Strand, Ste 2",
+            "London",
+            "Greater London",
+            "WC2N 5HX",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fa931735",
+            "name": "Hotel",
+            "pluralName": "Hotels",
+            "shortName": "Hotel",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4bb0ad2df964a5202d543ce3",
+        "name": "Golden Cross House",
+        "location": {
+          "address": "8 Duncannon St",
+          "lat": 51.50820623368117,
+          "lng": -0.12627615037368478,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50820623368117,
+              "lng": -0.12627615037368478
+            }
+          ],
+          "postalCode": "WC2N 4JF",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "8 Duncannon St",
+            "London",
+            "Greater London",
+            "WC2N 4JF",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Office",
+            "pluralName": "Offices",
+            "shortName": "Office",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4baa57e6f964a5202b613ae3",
+        "name": "Halfway 2 Heaven",
+        "location": {
+          "address": "7 Duncannon Street",
+          "lat": 51.5084259850165,
+          "lng": -0.12651594968542668,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.5084259850165,
+              "lng": -0.12651594968542668
+            }
+          ],
+          "postalCode": "WC2N 4JF",
+          "cc": "GB",
+          "city": "Charing Cross",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "7 Duncannon Street",
+            "Charing Cross",
+            "Greater London",
+            "WC2N 4JF",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d8941735",
+            "name": "Gay Bar",
+            "pluralName": "Gay Bars",
+            "shortName": "Gay Bar",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/gaybar_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "59ca95371b0ea516e924aeea",
+        "name": "Westminster City Hall",
+        "location": {
+          "address": "5 Strand",
+          "lat": 51.508329,
+          "lng": -0.126351,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508329,
+              "lng": -0.126351
+            }
+          ],
+          "postalCode": "WC2R 0RH",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "5 Strand",
+            "London",
+            "Greater London",
+            "WC2R 0RH",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d126941735",
+            "name": "Government Building",
+            "pluralName": "Government Buildings",
+            "shortName": "Government",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "54342400498ecc238ff8ce15",
+        "name": "Boots",
+        "location": {
+          "address": "5-7 The Strand",
+          "lat": 51.5081033963722,
+          "lng": -0.1262481801979445,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.5081033963722,
+              "lng": -0.1262481801979445
+            }
+          ],
+          "postalCode": "WC2N 5HR",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "5-7 The Strand",
+            "London",
+            "Greater London",
+            "WC2N 5HR",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f951735",
+            "name": "Pharmacy",
+            "pluralName": "Pharmacies",
+            "shortName": "Pharmacy",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4e37c821b61c5cb3c3835809",
+        "name": "Boots",
+        "location": {
+          "address": "Charing Cross Railway Station",
+          "crossStreet": "12-30 Strand",
+          "lat": 51.50798045349461,
+          "lng": -0.12614566781793451,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50798045349461,
+              "lng": -0.12614566781793451
+            }
+          ],
+          "postalCode": "WC2N 5HS",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Charing Cross Railway Station (12-30 Strand)",
+            "London",
+            "Greater London",
+            "WC2N 5HS",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f951735",
+            "name": "Pharmacy",
+            "pluralName": "Pharmacies",
+            "shortName": "Pharmacy",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4f9524cce4b01b8990e47ba1",
+        "name": "Trafalgar Square/Charing Cross Station Bus Stop F",
+        "location": {
+          "address": "The Strand",
+          "lat": 51.50829883102614,
+          "lng": -0.12600637746194765,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50829883102614,
+              "lng": -0.12600637746194765
+            }
+          ],
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "The Strand",
+            "London",
+            "Greater London",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b4f",
+            "name": "Bus Stop",
+            "pluralName": "Bus Stops",
+            "shortName": "Bus Stop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4c383b962c8020a1827f8a00",
+        "name": "Paul",
+        "location": {
+          "address": "11 Strand",
+          "crossStreet": "outside Charing Cross Station",
+          "lat": 51.50843075823572,
+          "lng": -0.12570770442442486,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50843075823572,
+              "lng": -0.12570770442442486
+            }
+          ],
+          "postalCode": "WC2N 5HR",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "11 Strand (outside Charing Cross Station)",
+            "London",
+            "Greater London",
+            "WC2N 5HR",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16a941735",
+            "name": "Bakery",
+            "pluralName": "Bakeries",
+            "shortName": "Bakery",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4aef1a52f964a520a2d521e3",
+        "name": "M&S Simply Food",
+        "location": {
+          "address": "Charing Cross Station",
+          "lat": 51.50843391325062,
+          "lng": -0.1254508906002168,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50843391325062,
+              "lng": -0.1254508906002168
+            }
+          ],
+          "postalCode": "WC2N 5HS",
+          "cc": "GB",
+          "city": "Charing Cross",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Charing Cross Station",
+            "Charing Cross",
+            "Greater London",
+            "WC2N 5HS",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d118951735",
+            "name": "Grocery Store",
+            "pluralName": "Grocery Stores",
+            "shortName": "Grocery Store",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "5c3be36842d8c2002c5eab6d",
+        "name": "Tfl Bus N21",
+        "location": {
+          "lat": 51.50862,
+          "lng": -0.12623817,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50862,
+              "lng": -0.12623817
+            }
+          ],
+          "postalCode": "WC2R 0RG",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "London",
+            "Greater London",
+            "WC2R 0RG",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d12b951735",
+            "name": "Bus Line",
+            "pluralName": "Bus Lines",
+            "shortName": "Bus",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4c432530520fa593692accac",
+        "name": "Terrace on the Strand",
+        "location": {
+          "address": "Charing Cross Hotel, Strand",
+          "lat": 51.50856884149056,
+          "lng": -0.1251840591430664,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50856884149056,
+              "lng": -0.1251840591430664
+            }
+          ],
+          "postalCode": "WC2N 5HX",
+          "cc": "GB",
+          "city": "Charing Cross",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Charing Cross Hotel, Strand",
+            "Charing Cross",
+            "Greater London",
+            "WC2N 5HX",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1dc931735",
+            "name": "Tea Room",
+            "pluralName": "Tea Rooms",
+            "shortName": "Tea Room",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4dbb73ee0437955ec018fbd7",
+        "name": "Bus Stop G (48121)",
+        "location": {
+          "address": "Duncannon St.",
+          "crossStreet": "at Trafalgar Sq.",
+          "lat": 51.508729103648925,
+          "lng": -0.12629985809326172,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508729103648925,
+              "lng": -0.12629985809326172
+            }
+          ],
+          "postalCode": "WC2",
+          "cc": "GB",
+          "city": "City of Westminster",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "Duncannon St. (at Trafalgar Sq.)",
+            "City of Westminster",
+            "Greater London",
+            " WC2",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b4f",
+            "name": "Bus Stop",
+            "pluralName": "Bus Stops",
+            "shortName": "Bus Stop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "5641d93f498e9c8e82600e20",
+        "name": "AMBA LOUNGE",
+        "location": {
+          "lat": 51.508506,
+          "lng": -0.124762,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508506,
+              "lng": -0.124762
+            }
+          ],
+          "cc": "GB",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d121941735",
+            "name": "Lounge",
+            "pluralName": "Lounges",
+            "shortName": "Lounge",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4b44869ff964a52007f625e3",
+        "name": "McDonald's",
+        "location": {
+          "address": "34-35 Strand",
+          "lat": 51.508956360628105,
+          "lng": -0.12472460069196684,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508956360628105,
+              "lng": -0.12472460069196684
+            }
+          ],
+          "postalCode": "WC2N 5HZ",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "34-35 Strand",
+            "London",
+            "Greater London",
+            "WC2N 5HZ",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Fast Food Restaurant",
+            "pluralName": "Fast Food Restaurants",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4b9a4eb0f964a5202bab35e3",
+        "name": "St Martin-in-the-Fields",
+        "location": {
+          "address": "5 Trafalgar Sq",
+          "lat": 51.508745742823905,
+          "lng": -0.12650689522425146,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.508745742823905,
+              "lng": -0.12650689522425146
+            }
+          ],
+          "postalCode": "WC2N 4JJ",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "5 Trafalgar Sq",
+            "London",
+            "Greater London",
+            "WC2N 4JJ",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d132941735",
+            "name": "Church",
+            "pluralName": "Churches",
+            "shortName": "Church",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      },
+      {
+        "id": "4b7548cbf964a52065042ee3",
+        "name": "Coutts & Co",
+        "location": {
+          "address": "440 Strand",
+          "lat": 51.50895569923466,
+          "lng": -0.12486130280769427,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.50895569923466,
+              "lng": -0.12486130280769427
+            }
+          ],
+          "postalCode": "WC2R 0QA",
+          "cc": "GB",
+          "city": "London",
+          "state": "Greater London",
+          "country": "United Kingdom",
+          "formattedAddress": [
+            "440 Strand",
+            "London",
+            "Greater London",
+            "WC2R 0QA",
+            "United Kingdom"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Bank",
+            "pluralName": "Banks",
+            "shortName": "Bank",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1547948885",
+        "hasPerk": false
+      }
+    ],
+    "confident": false,
+    "geocode": {
+      "what": "",
+      "where": "london uk",
+      "feature": {
+        "cc": "GB",
+        "name": "London",
+        "displayName": "London, Greater London, United Kingdom",
+        "matchedName": "London, Greater London, UK",
+        "highlightedName": "<b>London</b>, Greater London, <b>UK</b>",
+        "woeType": 7,
+        "slug": "london",
+        "id": "geonameid:2643743",
+        "longId": "72057594040571679",
+        "geometry": {
+          "center": {
+            "lat": 51.50853,
+            "lng": -0.12574
+          },
+          "bounds": {
+            "ne": {
+              "lat": 51.691643999655895,
+              "lng": 0.33418999705203406
+            },
+            "sw": {
+              "lat": 51.28467404417054,
+              "lng": -0.5085579279369435
+            }
+          }
+        }
+      },
+      "parents": []
+    }
+  }
+}
