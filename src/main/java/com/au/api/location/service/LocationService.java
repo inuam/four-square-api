@@ -18,9 +18,9 @@ public class LocationService {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(LocationPaths.class);
 
-    @Autowired
     private final FourSquarePlacesClient fourSquarePlacesClient;
 
+    @Autowired
     public LocationService(FourSquarePlacesClient fourSquarePlacesClient) {
         this.fourSquarePlacesClient = fourSquarePlacesClient;
     }
@@ -32,6 +32,9 @@ public class LocationService {
 
         if (placesResponse.getStatusCode().equals(HttpStatus.OK)) {
             places = VenueResponse.toLocation.apply(placesResponse.getBody());
+        } else {
+            LOGGER.info("Response code from venue search = [{}]", placesResponse.getStatusCode());
+            LOGGER.info("Response body = [{}]", placesResponse.getBody());
         }
 
         return places;

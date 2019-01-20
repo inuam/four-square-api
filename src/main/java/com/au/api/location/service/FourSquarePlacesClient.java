@@ -10,12 +10,11 @@ import org.springframework.web.client.RestTemplate;
 @Service
 public class FourSquarePlacesClient {
 
-    @Autowired
     private final RestTemplate restTemplate;
 
-    @Autowired
     private final LocationPaths locationPaths;
 
+    @Autowired
     public FourSquarePlacesClient(RestTemplate restTemplate, LocationPaths locationPaths) {
         this.restTemplate = restTemplate;
         this.locationPaths = locationPaths;
