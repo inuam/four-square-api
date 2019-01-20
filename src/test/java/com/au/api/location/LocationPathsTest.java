@@ -21,7 +21,7 @@ public class LocationPathsTest {
         String actualUrl = classToTest.getVenuesUrl("kingston");
 
         // Then
-        assertThat(actualUrl, is("http://au.systems.com/venues/search?query=kingston&clientId=123&secretKey=xyz"));
+        assertThat(actualUrl, is("http://au.systems.com/venues/search?near=kingston&client_id=123&client_secret=xyz&v=20190114"));
     }
 
 }

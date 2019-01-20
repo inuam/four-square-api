@@ -42,7 +42,7 @@ public class LocationControllerTest {
         given(locationService.findPlace("london")).willReturn(singletonList(trafalgarSquare));
 
         // When
-        mockMvc.perform(get("/api/place/search?placeName=london"))
+        mockMvc.perform(get("/api/place/search?place=london"))
 //                .andDo(MockMvcResultHandlers.print())
                 // Then
                 .andExpect(status().isOk())
