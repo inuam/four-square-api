@@ -1,5 +1,5 @@
 # Description
-Base Spring Boot application to demonstrate the use of Foursquare places API. Given a place name it'll return
+Basic Spring Boot application to demonstrate the use of Foursquare places API. Given a place name it'll return
 a collection of places near by or and empty if nothing is found.
 
 
