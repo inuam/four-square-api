@@ -1,7 +1,6 @@
 package com.au.api.location.service;
 
 import com.au.api.location.LocationPaths;
-import com.au.api.location.entity.Response;
 import com.au.api.location.entity.VenueResponse;
 import org.junit.Test;
 import org.junit.runner.RunWith;

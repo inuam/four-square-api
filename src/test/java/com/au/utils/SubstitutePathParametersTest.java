@@ -14,7 +14,7 @@ public class SubstitutePathParametersTest {
     public ExpectedException exception = ExpectedException.none();
 
     @Test
-    public void shouldSubstitutePathWithParameters(){
+    public void shouldSubstitutePathWithParameters() {
         // Given
         String expected = "http://google?q=kingston";
         String path = "http://google?q=${query}";
@@ -29,7 +29,7 @@ public class SubstitutePathParametersTest {
     }
 
     @Test
-    public void shouldThrowExceptionWhenSubstitutingWithNullPath(){
+    public void shouldThrowExceptionWhenSubstitutingWithNullPath() {
         // Expect
         exception.expect(NullPointerException.class);
         exception.expectMessage(containsString("Path name must NOT be null"));
@@ -39,7 +39,7 @@ public class SubstitutePathParametersTest {
     }
 
     @Test
-    public void shouldThrowExceptionWhenSubstitutingWithNullParameterName(){
+    public void shouldThrowExceptionWhenSubstitutingWithNullParameterName() {
         // Expect
         exception.expect(NullPointerException.class);
         exception.expectMessage(containsString("Parameter name must NOT be null"));
@@ -51,7 +51,7 @@ public class SubstitutePathParametersTest {
     }
 
     @Test
-    public void shouldThrowExceptionWhenSubstitutingWithNullParameterValue(){
+    public void shouldThrowExceptionWhenSubstitutingWithNullParameterValue() {
         // Expect
         exception.expect(NullPointerException.class);
         exception.expectMessage(containsString("Parameter value must NOT be null"));

@@ -3,7 +3,7 @@ package com.au.api.location;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 
 public class LocationPathsTest {
 
@@ -14,7 +14,7 @@ public class LocationPathsTest {
     private LocationPaths classToTest = new LocationPaths(basePath, clientId, secretKey);
 
     @Test
-    public void shouldReturnFQVenuesUrl(){
+    public void shouldReturnFQVenuesUrl() {
         // Given
 
         // When

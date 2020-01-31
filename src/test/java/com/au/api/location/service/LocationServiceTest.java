@@ -2,10 +2,8 @@ package com.au.api.location.service;
 
 import com.au.api.location.domain.Place;
 import com.au.api.location.entity.VenueResponse;
-import com.au.utils.FileUtils;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.mockito.BDDMockito;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;

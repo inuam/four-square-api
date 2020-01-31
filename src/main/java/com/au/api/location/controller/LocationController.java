@@ -4,7 +4,6 @@ import com.au.api.location.domain.Place;
 import com.au.api.location.service.LocationService;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
-import io.swagger.annotations.ApiResponses;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -28,7 +27,7 @@ public class LocationController {
     }
 
     @ApiOperation(value = "Will return a list of places near your target search place")
-    @RequestMapping(path="/place/search", method = GET, produces = "application/json")
+    @RequestMapping(path = "/place/search", method = GET, produces = "application/json")
     public ResponseEntity<Collection<Place>> places(
             @ApiParam(name = "place", value = "name of place to search for, can be comma separated, e.g London,UK")
             @RequestParam(value = "place") String placeName) {

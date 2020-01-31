@@ -20,14 +20,17 @@ public class VenueResponse {
     public Meta getMeta() {
         return meta;
     }
+
     @JsonProperty("meta")
     public void setMeta(Meta meta) {
         this.meta = meta;
     }
+
     @JsonProperty("response")
     public Response getResponse() {
         return response;
     }
+
     @JsonProperty("response")
     public void setResponse(Response response) {
         this.response = response;
@@ -42,6 +45,6 @@ public class VenueResponse {
 
     public static Function<VenueResponse, Collection<Place>> toLocation = r ->
             r.response.getVenues().stream()
-            .map(toAPlace)
-            .collect(toList());
+                    .map(toAPlace)
+                    .collect(toList());
 }
